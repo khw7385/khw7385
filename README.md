@@ -15,7 +15,7 @@
 | 프로젝트명 | 유형 | 비고
 |:-:|:-:|:-:|
 | 장애인-도우미 매칭 서비스 - 비비| LG CNS AM INSPIRE CAMP | [백엔드 저장소](https://github.com/khw7385/BEBEE-BE), [인프라 저장소](https://github.com/khw7385/BEBEE-INFRA)
-| 대중교통을 이용한 통학생을 위한 할 일 관리 서비스 - 두리번 | 현대 소프티어 | [아카이빙 저장소](https://github.com/khw7385/Team6-DuBu)
+| 대중교통을 이용한 통학생을 위한 할 일 관리 서비스 - 두리번 | 현대 소프티어 | [아카이빙 저장소](https://github.com/khw7385/Do-Reburn)
 | 낚시성 기사 탐지하는 뉴스 플랫폼 - ClickClean| 전공('클라우드 프로젝트') | [아카이빙 저장소](https://github.com/orgs/Click-Clean/repositories)
 | 다중 쿼리 계획 추출를 통한 DB 학습 지원 소프트웨어 개발 | 전공('졸업 논문/프로젝트') | [아카이빙 저장소](https://github.com/khw7385/graduate_project_db)
 | 생성형 AI를 이용한 영어 AI 튜터 | 전공('캡스톤 디자인') | [아카이빙 저장소](https://github.com/Capstone-Design-English-AI-Tutor/English-AI-Tutor)
